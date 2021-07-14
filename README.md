@@ -1,6 +1,6 @@
 # Banking_System
 
-A Dynamic Website is used to transfer money between 10 users.
+A Web Application used to transfer money between multiple users.
 
 *Front-end : HTML, CSS, Bootstrap & Javascript
 *Back-end : PHP

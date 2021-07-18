@@ -12,4 +12,4 @@ The User table have basic fields such as name, email & current balance.
 The Transaction table records all transfers happened along with their time.
 
 The Flow of the Website:
-Home Page > Create User> Make Transaction > Select reciever > Transaction History.
+Home Page > Create User> Make Transaction > Select receiver > Transaction History.
